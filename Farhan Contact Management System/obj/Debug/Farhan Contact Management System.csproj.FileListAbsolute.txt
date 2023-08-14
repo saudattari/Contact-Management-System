@@ -1,0 +1,15 @@
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Farhan Contact Management System.exe.config
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Farhan Contact Management System.exe
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Farhan Contact Management System.pdb
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Krypton.Toolkit.dll
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Krypton.Toolkit.xml
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.csproj.AssemblyReference.cache
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan_Contact_Management_System.Properties.Resources.resources
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.csproj.GenerateResource.cache
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.csproj.CoreCompileInputs.cache
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.csproj.CopyComplete
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.exe
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.pdb
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\bin\Debug\Guna.UI2.dll
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan_Contact_Management_System.Form11.resources
+E:\1Visual_Repository\Farhan Contact Management System\Farhan Contact Management System\obj\Debug\Farhan Contact Management System.csproj.SuggestedBindingRedirects.cache
